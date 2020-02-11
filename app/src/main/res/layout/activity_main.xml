@@ -82,6 +82,7 @@
         android:layout_marginTop="20dp"
         android:background="@drawable/btn_red_large"
         android:text="user"
+        android:onClick="Next"
         android:textColor="#FFFFFF"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.506"
