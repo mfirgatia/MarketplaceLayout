@@ -257,13 +257,16 @@
         android:id="@+id/button7"
         android:layout_width="301dp"
         android:layout_height="49dp"
-        android:text="next"
-        android:fontFamily="@font/futura_pt_demibold"
-        android:textSize="22dp"
-        android:onClick="Next"
+        android:layout_marginTop="20dp"
         android:background="@drawable/btn_red_large"
+        android:fontFamily="@font/futura_pt_demibold"
+        android:onClick="Next"
+        android:text="next"
         android:textColor="#FFFFFF"
-        tools:layout_editor_absoluteX="17dp"
-        tools:layout_editor_absoluteY="549dp" />
+        android:textSize="22dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.474"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView18" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
