@@ -90,7 +90,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="12dp"
         android:fontFamily="@font/futura_pt_demibold"
-        android:text="Mukti Firgatia"
+        android:text="Jonathan Doe"
         android:textColor="#313131"
         android:textSize="20dp"
         app:layout_constraintEnd_toEndOf="parent"
