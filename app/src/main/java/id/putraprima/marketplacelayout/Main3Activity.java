@@ -14,7 +14,7 @@ public class Main3Activity extends AppCompatActivity {
         setContentView(R.layout.activity_main3);
     }
     public void Next(View view) {
-        Intent iten = new Intent(Main3Activity.this, Main2Activity.class);
+        Intent iten = new Intent( Main3Activity.this, Main2Activity.class);
         startActivity(iten);
     }
 }

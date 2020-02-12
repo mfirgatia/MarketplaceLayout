@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MarketplaceLayout</string>
+    
+    <string-array name="country">
+        <item>Malang</item>
+        <item>Surabaya</item>
+        <item>Jakarta</item>
+    </string-array>
 </resources>
