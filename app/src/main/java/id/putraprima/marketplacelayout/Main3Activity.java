@@ -17,5 +17,12 @@ public class Main3Activity extends AppCompatActivity {
         Intent iten = new Intent( Main3Activity.this, Main2Activity.class);
         startActivity(iten);
     }
+    public void Next2(View view){
+        Intent iten1 = new Intent(Main3Activity.this, Main2Activity.class);
+        startActivity(iten1);
+    }
+
+
+
 }
 

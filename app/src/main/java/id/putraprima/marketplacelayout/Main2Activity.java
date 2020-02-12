@@ -21,4 +21,8 @@ public class Main2Activity extends AppCompatActivity {
         Intent iten = new Intent(Main2Activity.this, Main4Activity.class);
         startActivity(iten);
     }
+    public void Next4(View view){
+        Intent iten = new Intent(Main2Activity.this, MainActivity.class);
+        startActivity(iten);
+    }
 }
