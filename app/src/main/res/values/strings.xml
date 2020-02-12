@@ -2,8 +2,8 @@
     <string name="app_name">MarketplaceLayout</string>
     
     <string-array name="country">
-        <item>Malang</item>
-        <item>Surabaya</item>
-        <item>Jakarta</item>
+        <item>Indonesia</item>
+        <item>Inggris</item>
+        <item>Amerika</item>
     </string-array>
 </resources>
